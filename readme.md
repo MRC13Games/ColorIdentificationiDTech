@@ -1,16 +1,16 @@
-# Project Name
+# Project Name: ColorIdentification
 
- Add short description of project here > 
+ Add short description of project here > Can train to learn 3 different colors, red, green, and blue!
 
-![add image descrition here](direct image link here)
+!It wont let me insert photo or video for some reason.
 
 ## The Algorithm
 
-Add an explanation of the algorithm and how it works. Make sure to include details about how the code works, what it depends on, and any other relevant info. Add images or other descriptions for your project here. 
+I used the base of the thumbs project that can detect if it is seeing if a person is doing a thumbs up or a thumbs down. It 
 
 ## Running this project
 
-1. Add steps for running this project.
-2. Make sure to include any required libraries that need to be installed for your project to run.
+You have to run all cells in the classification one by one until you see a screen at the bottom that shows the controlls and the main project. Also make sure that you have your nano connected and camera connected to your nano.
 
-[View a video explanation here](video link)
+
+!It wont let me insert photo or video for some reason.
